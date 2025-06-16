@@ -1,0 +1,4 @@
+{
+    "command": "npm run test",
+    "working_directory": "/home/kavia/workspace/code-generation/bookvoyage-explorer-46561-40483a22/booktrail_frontend"
+}
